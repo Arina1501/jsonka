@@ -1,0 +1,9 @@
+{
+ "name":"Vadim",
+ "surname":"Ksendzov",
+ "age":65,
+"family_status":"married",
+"area":{"area_native":"turkey",
+ "religia":"catholic",},
+"Her_cars":   ["BMW","BVW"]
+}
