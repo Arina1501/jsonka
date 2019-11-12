@@ -2,9 +2,9 @@
  "name":"Arina",
  "surname":"Golovach",
  "age":18,
-"Address":{"street":"Plehanova", 
-"house":72,
-"Apartment":172},
+"Address":{"street":"Baramzinoi", 
+"house":13,
+"Apartment":45},
 "family_status":"single",
 "Her_cars":   ["BMW","BVW"]
 }
