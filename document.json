@@ -1,9 +1,10 @@
 {
- "name":"Vadim",
- "surname":"Ksendzov",
- "age":65,
-"family_status":"married",
-"area":{"area_native":"turkey",
- "religia":"catholic",},
+ "name":"Arina",
+ "surname":"Golovach",
+ "age":18,
+"Address":{"street":"Plehanova", 
+"house":72,
+"Apartment":172},
+"family_status":"single",
 "Her_cars":   ["BMW","BVW"]
 }
